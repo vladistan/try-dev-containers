@@ -5,5 +5,13 @@
       "theme": "robbyrussell",
       "plugins": "git"
     }
+  },
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "terminal.integrated.defaultProfile.linux": "zsh",
+        "terminal.integrated.profiles.linux": { "zsh": { "path": "/usr/bin/zsh" } }
+      }
+    }
   }
 }

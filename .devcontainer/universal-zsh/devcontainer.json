@@ -1,4 +1,5 @@
 {
+  "name": "Universal with ZSH",
   "image": "mcr.microsoft.com/devcontainers/universal:2",
   "features": {
     "ghcr.io/nils-geistmann/devcontainers-features/zsh:0": {
